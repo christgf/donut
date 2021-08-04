@@ -25,6 +25,6 @@ Go port of the original [donut.c](https://www.a1k0n.net/2006/09/15/obfuscated-c-
                     +=0.04rz+=0.02
 ```
 
-Run with `go run donut.go` - requires ANSI- or VT100-like terminal emulation.
+The animation requires ANSI- or VT100-like terminal emulation.
 
 The math is beautifully explained [here](https://www.a1k0n.net/2011/07/20/donut-math.html).
